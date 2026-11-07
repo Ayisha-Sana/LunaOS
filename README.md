@@ -9,6 +9,10 @@ Manage life support, energy, food production, radiation protection, and system m
 
 The objective isn't simply to survive. It's to understand what survival actually takes.
 
+🚀 Live Demo
+
+**[Launch LunaOS →](https://lunaos.streamlit.app/)**
+
 ✨ Features
 
 - *Mission Control:* Monitor crew status, resource reserves, habitat conditions, and mission progress.
